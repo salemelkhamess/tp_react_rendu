@@ -59,6 +59,11 @@ Attend que l'utilisateur arrête de taper pendant un certain temps (500 ms) avan
 
 Évite de faire des requêtes API à chaque frappe, ce qui optimise les performances.
 
+ Créer le hook useDebounce
+Ce hook prend une valeur (value) et un délai (delay).
+
+Il retourne une version "débouncée" de la valeur, qui ne sera mise à jour qu'après le délai spécifié.
+
 [Ajoutez vos captures d'écran]
 ```
 
