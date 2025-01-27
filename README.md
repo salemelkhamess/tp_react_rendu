@@ -53,7 +53,12 @@ Pour chaque exercice :
 
 _Votre réponse pour l'exercice 1 :_
 ```
-Expliquez votre solution ici
+L'objectif est de créer une fonctionnalité de recherche en temps réel qui :
+
+Attend que l'utilisateur arrête de taper pendant un certain temps (500 ms) avant de déclencher la recherche.
+
+Évite de faire des requêtes API à chaque frappe, ce qui optimise les performances.
+
 [Ajoutez vos captures d'écran]
 ```
 
